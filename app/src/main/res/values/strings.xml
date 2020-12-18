@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="one_time_alarm">One time alarm</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="btn_once_date">btn-once-date</string>
+    <string name="alarm_time">Waktu Alarm</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="set_one_time_alarm">Set one time alarm</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+</resources>
